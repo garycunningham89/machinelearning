@@ -78,19 +78,44 @@ Primary Issues:
 * Generating accurate data measurements for the data set, using a lot of trial and error.
 * Choosing the correct generation and analysis techniques.
 * Time keeping in line with other assignments and other aspects as part of entire online course.
-* 
-* 
+* Researching accurate components for all aspects of the project.
+* Correctly inputting and learning of the Python programming language used for analysis.
+* Learning, testing and editing code and readme file continuously while rememebering to add sources for newly learned material.
+* Time management and accuracy of outputs.
 
 Reference List within Notebook: tasks2020.ipynb
+README.md - core file for project with content of project contained or described and includes observations and reference list.
+iris_csv.csv - csv file containing the Iris dataset, the core component of this project.
 
-##### References
-[1] GitHub Inc., “GitHub,”
-https://github.com/.
-[2] GMIT, “Quality Assurance Framework,”
-https://www.gmit.ie/general/quality-assurance-framework.
-[3] I. McLoughlin, “Using git for assessments,”
-https://github.com/ianmcloughlin/using-git-for-assessments/.
-[4] Wikipedia contributors, “Chi-squared test — Wikipedia, the free encyclopedia,”
-2020, [Online; accessed 1-November-2020]. [Online]. Available: https://en.wikipedia.
-org/w/index.php?title=Chi-squared test&oldid=983024096
+
+
+
+
+APPENDICES
+
+
+
+REFERENCE LIST:
+
+Class Content, Background Reading and Python Learning Tutorials were prelimary references supplemented by the following list of references;
+
+Python Software Foundation. Accessed online at: https://www.python.org/
+w3Schools.com Tutorials. Accessed online at: https://www.w3schools.com
+Python by Programiz Tutorials. Accessed online at: https://www.programiz.com/
+Pandas: Python Data Analysis Library. Accessed online at: https://pandas.pydata.org.
+NumPy. Accessed online at: http://www.numpy.org
+Stack Overflow - Various queries for comparison and improving code output. Accessed online at: https://stackoverflow.com
+Matplotlib Tutorials. Accessed online at: https://matplotlib.org/tutorials/index.html
+Wikipedia: Introduction to Fisher's Iris Data Set. Accessed online at: https://en.wikipedia.org/wiki/Iris_flower_data_set
+Fisher, R. A. (1936) The use of multiple measurements in taxonomic problems. The Annals of Eugenics (1935-1954). Accessed online at: https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1469-1809.1936.tb02137.x
+Kaggle (2019) Machine Learning with Iris dataset. Accessed online at: https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset
+Sci-kit Learn (2019) The Iris dataset. Accessed online at: https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
+Taylor, J. (2011) Stats 202: Data Mining. Stanford Univeristy. Accessed online at: http://statweb.stanford.edu/~jtaylo/courses/stats202/visualization.html
+Dong, N. (2019) RPubs: Introduction 1 - Iris dataset. Accessed online at: https://rpubs.com/nandong/imlp-ch1-iris - Introduction to Iris Data set by rPubs.
+Tutorialspoint (2019) AI with Python – Supervised Learning: Classification. Accessed online at: https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_supervised_learning_classification.html
+Tutorialspoint (2019) Python - Correlation. Accessed online at: https://www.tutorialspoint.com/python/python_correlation.html
+GitHub Inc. “GitHub”. Accessed online at: https://github.com/.
+GMIT, “Quality Assurance Framework”. Accessed online at: https://www.gmit.ie/general/quality-assurance-framework.
+I. McLoughlin. “Using git for assessments”. Accessed online at: https://github.com/ianmcloughlin/using-git-for-assessments/.
+Wikipedia contributors, “Chi-squared test — Wikipedia, the free encyclopedia,” 2020, Accessed online at:https://en.wikipedia.org/w/index.php?title=Chi-squared test&oldid=983024096
 Datacamp, 2019
