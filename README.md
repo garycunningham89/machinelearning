@@ -1,6 +1,6 @@
 # Machine Learning and Statistics
 ### Tasks 2020
-### Due: last commit on or before December 18th, 2020
+### Due: last commit on or before January 1st, 2021
 Four tasks will included in Jupyter Notebook. Tasks Descriptor listed below:
 
 ### Task 1
@@ -50,6 +50,39 @@ Evidence of planning and project management; pragmatic attitude to work as evide
 Clear documentation of how to create an environment in which any code will run, how to prepare the code for running, how to run the code including setting any options or flags, and what to expect upon running the code. Concise descriptions of code in comments and README.
 
 
+The primary resources for data analysis of the simulated dataset in this assignment are:
+utilizing python programming language through Anaconda, Visual Studio Code, Python.org tutorials and w3schools tutorials
+packages such as scikit, matplotlib and numpy by researching their respective documentation and this will be utilized alongside various other compositions regarding the same.
+These will be stored on a Jupyter notebook and submitted and hosted in a Github repository for reviewing.
+
+KEY TERMS/TOOLS IN ASSIGNMENT:
+Jupyter - "a loose acronym meaning Julia, Python, and R" (Datacamp, 2019) - The base languages jupyter was created to include but it now includes various other languages, including Python.
+GitHub account previously created on GitHub.com for creation of repositories of code, assignment and lecture content input. GitHub is the worlds leading software development and sharing platform which brings together the worlds greatest community of developers (GitHub.com, 2019).
+* Descriptive statistics - "are brief descriptive coefficients that summarize a given data set, which can be either a representation of the entire or a sample of a population" Investopedia (2019).
+* Mean - average of all numbers.
+* Median - is the middle value or average of two middle values of a sorted set of numbers.
+* MACHINE LEARNING - allows "computers the ability to learn without being explicitly programmed" (Arthur Samuel). Allows processing of BIG DATA.
+* DATA ANALYSIS - is the inspection and modelling of data to discover information and conclusions which may aid the process of decision making.
+* DATA MINING - is the examination of existing databases in order to produce new information.
+* MULTIVARIATE ANALYSIS: more than two forms of variables for analysis.
+* BIVARIATE ANALYSIS: two variable for analysis.
+* UNIVARIATE ANALYSIS: one varaible for analysis.
+* STANDARD DEVIATION: the variance from the mean. It can be a low or high variance depending on the distribution of differences from the mean.
+* Dependent Variable: factor that needs to understood or predicted.
+* Independent Variables: the factors that may impact on your dependent variable.
+* NumPy is "the fundamental package supported for presenting and computing data with high performance in Python" Phuong and Czygan (2015, p. 11)
+* Pandas - "is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language" (pandas Documentation, 2019).
+* Matplotlib - "tries to make easy things easy and hard things possible. You can generate plots, histograms, power spectra, bar charts, errorcharts, scatterplots, etc., with just a few lines of code" (Matplotlib Documentation, 2019).
+* Seaborn - a higher level data visualization package than matlplotlib which is built on top of it and Waskom has described it as "If Matplotlib “tries to make easy things easy and hard things possible”, seaborn tries to make a well-defined set of hard things easy too.” (Singh, 2019). Seaborn is an amazing Python visualization library built on top of matplotlib and seaborn has a high-level interface as compared to the low level of Matplotlib (Singh, 2019).
+Primary Issues:
+* Generating accurate data measurements for the data set, using a lot of trial and error.
+* Choosing the correct generation and analysis techniques.
+* Time keeping in line with other assignments and other aspects as part of entire online course.
+* 
+* 
+
+Reference List within Notebook: tasks2020.ipynb
+
 ##### References
 [1] GitHub Inc., “GitHub,”
 https://github.com/.
@@ -60,3 +93,4 @@ https://github.com/ianmcloughlin/using-git-for-assessments/.
 [4] Wikipedia contributors, “Chi-squared test — Wikipedia, the free encyclopedia,”
 2020, [Online; accessed 1-November-2020]. [Online]. Available: https://en.wikipedia.
 org/w/index.php?title=Chi-squared test&oldid=983024096
+Datacamp, 2019
