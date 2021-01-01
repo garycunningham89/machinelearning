@@ -7,26 +7,31 @@ Four tasks will included in Jupyter Notebook. Tasks Descriptor listed below:
 ##### Task: Write a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places. 
 ###### Notes: The modules and packages that come as standard with Python cannot be used. 
 ###### Include research, references and a description of your algorithm.
-#### Observations and  Limitations:
+#### Observations and Limitations: Square root of 2 function was difficult to perform and assess but was very interesting to find out the idea of irrational numbers and the limitations it imposes on computations.
 
 ### Task 2
 #####  Task: The Chi-squared test for independence is a statistical hypothesis test like a t-test. It is used to analyse whether two categorical variables are independent. Use the table in Wikipedia article on Chi-Squared test as an example and validate the outputs stated.
 ###### Notes: Use scipy.stats to verify the value give in the test and calculate the associated p value.
 ###### Include references, research and justify your analysis. 
-#### Observations and  Limitations:
+#### Observations and  Limitations: Accurate Chi Squared Test performed and beneficial to gain knowledge on a useful test assessment.
 
 ### Task 3
 ##### Compare the Microsoft Excel standard deviation functions: STDEV.P and STDEV.S and perform an evaluation the better estimate for standard deviation of a sample of a populate using NumPy package.
 ###### Note: Research and explain standard deviation, the Excel functions and the differences between them in terms of accuracy of calculation.
 ###### Use research and NumPy to perform a simulation demonstrating any findings. 
-#### Observations and  Limitations:
+#### Observations and  Limitations: Interesting Task for mapping a widely known observation on Excel into Python coding algorithm.
 
-### Task 4
+### Task 4 - Version 1
 ##### November 30th, 2020: Use scikit-learn to apply k-means clustering to Fisher’s famous Iris data set. You will easily obtain a copy of the data set online. Explain in a Markdown cell how your code works and how accurate it might be, and then explain how your model could be used to make predictions of species of iris
 ###### Note: Research, apply and assess scikit k-means clustering on Fisher's Data Set to see if it can help predict the species types of the Iris within the data set.
 ###### Use research and scikit k-means clustering to perform a simulation demonstrating any findings. 
-#### Observations and  Limitations:
+#### Observations and  Limitations: Completed task before being informed of the change - left it in to show workings. Enjoyed learning more on Scikit Learn packages.
 
+### Task 4 - Version 2
+##### January 1st - Use scikit-learn to apply k Nearest Neighbours clustering to Fisher’s famous Iris data set. You will easily obtain acopy of the data set online. Explain in a Markdown cell how your code works and how accurate it might be, and then explain how your model could be used to make predictions of species of iris.
+##### Note: Research, apply and assess scikit k nearest neighbours on Fisher's Data Set to see if it can help predict the species types of the Iris within the data set.
+###### Use research and scikit k nearest neighbour to perform a simulation demonstrating any findings. 
+#### Observations and Limitations: Scikit documentation and various sources for aiding knowledge helped complete task.
 
 INTRODUCTION Ronald Aylmer Fisher's Iris data set has been consulted in a vast range of articles and disciplines as noticeable during initial research. Ronald Fisher, himself, was an English statistician firstly, with intrinsic ties to the studies of genetics, eugenics and biology as a whole who compiled the Iris Data Set as per this study (Yates and Mather, 1963). His studies have given him the affectionate title of "Father of Statistics" by some and he believed his various studies allowed greater ties between mathematics and biology as statistics, especially, are useful while trying to explain the various phenomena of science (Yates and Mather, 1963). His own 1936 study titled "The use of multiple measurements in taxonomic problems" portrayed data on three different Iris flower species;- Iris Setosa, Iris Virginica and Iris Versicolor. The data compiled comprised of four features of each species, i.e. sepal length, sepal width, petal length and petal width. The total flowers contained in the data set were 150, split into 50 of each of the three species. All of the attribute information was measured in cm. The data set characteristics are summarized in the following list (Fisher, 1936, adapted from the UCI Machine Learning Repository, Iris data set):
 
@@ -86,10 +91,6 @@ Primary Issues:
 Reference List within Notebook: tasks2020.ipynb
 README.md - core file for project with content of project contained or described and includes observations and reference list.
 iris_csv.csv - csv file containing the Iris dataset, the core component of this project.
-
-
-
-
 
 APPENDICES
 
